@@ -1,0 +1,13 @@
+num2=55
+print(id(num2))
+a=10
+b=a
+print(id(a))
+print(id(b))
+a=9
+print(id(a))
+print(id(b))
+k=9
+b=k
+print(id(k))
+print(id(b))
